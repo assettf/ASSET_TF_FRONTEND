@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "1006b86882ac7f07fc6c6df07f925a5c",
+const RESOURCES = {"flutter_bootstrap.js": "1b60083c3624523cefd30d95a9ad1914",
 "version.json": "1157d7f737a85cbf6fbae65a645ed2b0",
 "index.html": "4f2955822050b9873701ad9b279475dd",
 "/": "4f2955822050b9873701ad9b279475dd",
-"main.dart.js": "fac1d7a423b59a20cefc6dadabe5ba7a",
+"main.dart.js": "ebd1b15f1d9b1df466555457b437ec2b",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "README.md": "34e9c4cff9c9d5c54639ec3c8850eb9e",
 "favicon.png": "1cbf09c997f8a286059e25fafc74de49",
@@ -29,7 +29,7 @@ const RESOURCES = {"flutter_bootstrap.js": "1006b86882ac7f07fc6c6df07f925a5c",
 "assets/fonts/Geist-Thin.ttf": "4e901cbce27d5f5e2bfe2377780f4a79",
 "assets/fonts/Geist-Medium.ttf": "42a64eb53a967fa64ab827c3a32bb973",
 "assets/fonts/Geist-Light.ttf": "8a1ec6119d4f17c398c65c121dd3e01f",
-"assets/fonts/MaterialIcons-Regular.otf": "05c55e45b81b7be80f85e34238394095",
+"assets/fonts/MaterialIcons-Regular.otf": "2af432b4b108d66ec4ce76d061b8b457",
 "assets/fonts/Geist-SemiBold.ttf": "196be9d9a220066df3dfbf8bdec91b83",
 "assets/assets/svg/message_support.svg": "379ec893c0ae46807a8f525abfe0e5b7",
 "assets/assets/USDT_Logo.png": "3990f40e6e9305e0ef83b9493b3b4b61",
